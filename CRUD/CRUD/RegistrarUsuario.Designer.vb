@@ -39,6 +39,7 @@ Partial Class RegistrarUsuario
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.DataGridView1 = New System.Windows.Forms.DataGridView()
+        Me.Button4 = New System.Windows.Forms.Button()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -105,56 +106,56 @@ Partial Class RegistrarUsuario
         'Label7
         '
         Me.Label7.AutoSize = True
-        Me.Label7.Location = New System.Drawing.Point(304, 198)
+        Me.Label7.Location = New System.Drawing.Point(301, 198)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(39, 13)
+        Me.Label7.Size = New System.Drawing.Size(49, 13)
         Me.Label7.TabIndex = 23
-        Me.Label7.Text = "Label7"
+        Me.Label7.Text = "Telefono"
         '
         'Label6
         '
         Me.Label6.AutoSize = True
-        Me.Label6.Location = New System.Drawing.Point(304, 168)
+        Me.Label6.Location = New System.Drawing.Point(301, 168)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(39, 13)
+        Me.Label6.Size = New System.Drawing.Size(52, 13)
         Me.Label6.TabIndex = 22
-        Me.Label6.Text = "Label6"
+        Me.Label6.Text = "Direccion"
         '
         'Label5
         '
         Me.Label5.AutoSize = True
         Me.Label5.Location = New System.Drawing.Point(301, 141)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(39, 13)
+        Me.Label5.Size = New System.Drawing.Size(32, 13)
         Me.Label5.TabIndex = 21
-        Me.Label5.Text = "Label5"
+        Me.Label5.Text = "Edad"
         '
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(301, 113)
+        Me.Label4.Location = New System.Drawing.Point(301, 110)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(39, 13)
+        Me.Label4.Size = New System.Drawing.Size(44, 13)
         Me.Label4.TabIndex = 20
-        Me.Label4.Text = "Label4"
+        Me.Label4.Text = "Apellido"
         '
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(301, 80)
+        Me.Label3.Location = New System.Drawing.Point(301, 77)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(39, 13)
+        Me.Label3.Size = New System.Drawing.Size(44, 13)
         Me.Label3.TabIndex = 19
-        Me.Label3.Text = "Label3"
+        Me.Label3.Text = "Nombre"
         '
         'Label2
         '
         Me.Label2.AutoSize = True
         Me.Label2.Location = New System.Drawing.Point(301, 50)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(39, 13)
+        Me.Label2.Size = New System.Drawing.Size(18, 13)
         Me.Label2.TabIndex = 18
-        Me.Label2.Text = "Label2"
+        Me.Label2.Text = "ID"
         '
         'Label1
         '
@@ -182,11 +183,21 @@ Partial Class RegistrarUsuario
         Me.DataGridView1.Size = New System.Drawing.Size(776, 166)
         Me.DataGridView1.TabIndex = 32
         '
+        'Button4
+        '
+        Me.Button4.Location = New System.Drawing.Point(713, 9)
+        Me.Button4.Name = "Button4"
+        Me.Button4.Size = New System.Drawing.Size(75, 23)
+        Me.Button4.TabIndex = 33
+        Me.Button4.Text = "Regresar"
+        Me.Button4.UseVisualStyleBackColor = True
+        '
         'RegistrarUsuario
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.DataGridView1)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
@@ -229,4 +240,5 @@ Partial Class RegistrarUsuario
     Friend WithEvents Label1 As Label
     Friend WithEvents Button1 As Button
     Friend WithEvents DataGridView1 As DataGridView
+    Friend WithEvents Button4 As Button
 End Class
