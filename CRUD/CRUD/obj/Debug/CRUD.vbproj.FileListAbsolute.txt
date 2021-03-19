@@ -1,0 +1,13 @@
+C:\Users\julio\Documents\Taller-VB-SqlServer\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\julio\Documents\Taller-VB-SqlServer\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\julio\Documents\Taller-VB-SqlServer\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\julio\Documents\Taller-VB-SqlServer\CRUD\CRUD\bin\Debug\CRUD.xml
+C:\Users\julio\Documents\Taller-VB-SqlServer\CRUD\CRUD\obj\Debug\CRUD.vbprojAssemblyReference.cache
+C:\Users\julio\Documents\Taller-VB-SqlServer\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\julio\Documents\Taller-VB-SqlServer\CRUD\CRUD\obj\Debug\CRUD.Resources.resources
+C:\Users\julio\Documents\Taller-VB-SqlServer\CRUD\CRUD\obj\Debug\CRUD.vbproj.GenerateResource.cache
+C:\Users\julio\Documents\Taller-VB-SqlServer\CRUD\CRUD\obj\Debug\CRUD.vbproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\Taller-VB-SqlServer\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\julio\Documents\Taller-VB-SqlServer\CRUD\CRUD\obj\Debug\CRUD.xml
+C:\Users\julio\Documents\Taller-VB-SqlServer\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\Users\julio\Documents\Taller-VB-SqlServer\CRUD\CRUD\obj\Debug\CRUD.RegistrarUsuario.resources

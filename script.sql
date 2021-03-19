@@ -1,0 +1,8 @@
+CREATE TABLE USUARIO (
+    id INT PRIMARY KEY IDENTITY (1, 1),
+    nombre VARCHAR (13) NOT NULL,
+    apellido VARCHAR (10) NOT NULL,
+    edad INT NOT NULL,
+    direccion VARCHAR(30) NOT NULL,
+    telefono VARCHAR(30) NOT NULL
+);
